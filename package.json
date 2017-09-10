@@ -1,0 +1,23 @@
+{
+  "name": "reslog",
+  "version": "0.0.1",
+  "description": "Attach a log array to express response object then optionally pass into a view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drwndrsn/reslog.git"
+  },
+  "keywords": [
+    "express",
+    "log"
+  ],
+  "author": "drew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drwndrsn/reslog/issues"
+  },
+  "homepage": "https://github.com/drwndrsn/reslog#readme"
+}
