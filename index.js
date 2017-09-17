@@ -16,7 +16,7 @@ if (process.env.NODE_ENV !== 'production') {
         } 
         return next()
     }
-} else {
+} else { // if development
     middleware = function (req, res, next) {
         res.log = function () {}
         return next()
